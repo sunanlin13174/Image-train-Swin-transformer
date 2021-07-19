@@ -1,5 +1,5 @@
 # Image-train-Swin-transformer
-基于Swin-transformer训练图像分类并部署web端
+基于Swin-transformer训练图像分类并部署web端，解释见博客：https://blog.csdn.net/hi_gril/article/details/118486070?spm=1001.2014.3001.5501
 <br>由于Swin-transformer现在只支持训练ImageNet，导致用起来不方便，自己改了下代码，可用于训练自己的数据集<br>
 <br>具体包含以下几个步骤：<br>
 <br>1.加载预训练权重<br>
