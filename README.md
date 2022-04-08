@@ -7,4 +7,5 @@
 <br>3.训练√<br>
 <br>4.推理测试√<br>
 <br>5.新的数据增强调优<br>
-<br>6.部署在web端，因为tensorrt现在对transformer的支持不够，没法加速，后期可以<br>
+<br>6.部署在web端<br>
+ps:刚步入工作确实忙。。。
