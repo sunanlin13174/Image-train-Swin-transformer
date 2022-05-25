@@ -8,4 +8,7 @@
 <br>4.推理测试√<br>
 <br>5.新的数据增强调优<br>
 <br>6.部署在web端<br>
-ps:刚步入工作确实忙。。。
+服务器端部署：运行flask_demo，<br>
+客户端测试：运行client.py<br>
+
+<br>也可以使用postman测试服务器端
